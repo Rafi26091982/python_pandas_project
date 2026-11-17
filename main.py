@@ -51,6 +51,6 @@ print(department_average_salary(df))
 
 print("\nDepartment Salary Summary:")
 print(department_salary_summary(df))
-
+print("\nEmployee Salary Summary:")
 
 engine.dispose()
